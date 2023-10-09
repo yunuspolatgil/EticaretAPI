@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EticaretAPI.Application/1.0.0": {
+        "dependencies": {
+          "EticaretAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EticaretAPI.Application.dll": {}
+        }
+      },
+      "EticaretAPI.Domain/1.0.0": {
+        "runtime": {
+          "EticaretAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EticaretAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EticaretAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

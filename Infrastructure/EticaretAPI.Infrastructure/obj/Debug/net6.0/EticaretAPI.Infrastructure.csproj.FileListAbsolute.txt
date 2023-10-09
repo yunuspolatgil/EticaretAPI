@@ -1,0 +1,11 @@
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/bin/Debug/net6.0/EticaretAPI.Infrastructure.deps.json
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/bin/Debug/net6.0/EticaretAPI.Infrastructure.dll
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/bin/Debug/net6.0/EticaretAPI.Infrastructure.pdb
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/EticaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/EticaretAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/EticaretAPI.Infrastructure.AssemblyInfo.cs
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/EticaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/EticaretAPI.Infrastructure.dll
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/refint/EticaretAPI.Infrastructure.dll
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/EticaretAPI.Infrastructure.pdb
+/Users/jeju/Desktop/EticaretAPI/Infrastructure/EticaretAPI.Infrastructure/obj/Debug/net6.0/ref/EticaretAPI.Infrastructure.dll

@@ -1,0 +1,15 @@
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/bin/Debug/net6.0/EticaretAPI.Application.deps.json
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/bin/Debug/net6.0/EticaretAPI.Application.dll
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/bin/Debug/net6.0/EticaretAPI.Application.pdb
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.AssemblyInfoInputs.cache
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.AssemblyInfo.cs
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.csproj.CoreCompileInputs.cache
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.dll
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/refint/EticaretAPI.Application.dll
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.pdb
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/ref/EticaretAPI.Application.dll
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/bin/Debug/net6.0/EticaretAPI.Domain.dll
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/bin/Debug/net6.0/EticaretAPI.Domain.pdb
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.csproj.AssemblyReference.cache
+/Users/jeju/Desktop/EticaretAPI/Core/EticaretAPI.Application/obj/Debug/net6.0/EticaretAPI.Application.csproj.CopyComplete
